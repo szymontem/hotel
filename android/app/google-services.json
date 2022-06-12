@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823544524099",
+    "project_id": "hotel-5a3a8",
+    "storage_bucket": "hotel-5a3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823544524099:android:fdf49cd893b4f6fc5ed3f6",
+        "android_client_info": {
+          "package_name": "hotel.temerowski.charlampowicz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823544524099-l5h477caiq48a9e49bhm3k3qknucfkti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLKgHAb0IY_6ebp3vVhmnVLHlGExApwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823544524099-l5h477caiq48a9e49bhm3k3qknucfkti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
